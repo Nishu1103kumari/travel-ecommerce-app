@@ -1,6 +1,6 @@
 import { MdFastfood, MdShoppingCart } from "react-icons/md";
 import Categories from "../Category"; 
-import { food_items } from "../food";
+import { food_items } from "../Food.js";
 import ProductCard from "../components/ProductCard";
 
 function Products() {
