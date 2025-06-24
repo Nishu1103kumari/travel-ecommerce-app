@@ -7,7 +7,7 @@ import image6 from "./assets/image6.avif";
 import image7 from "./assets/image7.avif";
 import image8 from "./assets/image8.avif";
 import image9 from "./assets/image9.avif";
-import image10 from './assets/Cucumber.jpg';
+import image10 from './assets/cucumber.jpg';
 import image11 from "./assets/haldipowder.webp";
 import image12 from "./assets/mango.avif";
 import image13 from "./assets/meggi.jpg";
